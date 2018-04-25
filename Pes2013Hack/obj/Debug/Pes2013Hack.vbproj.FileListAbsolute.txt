@@ -1,0 +1,10 @@
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\obj\Debug\Pes2013Hack.Form1.resources
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\obj\Debug\Pes2013Hack.Resources.resources
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\obj\Debug\Pes2013Hack.vbproj.GenerateResource.Cache
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\bin\Debug\Pes2013Hack.exe.config
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\bin\Debug\Pes2013Hack.exe
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\bin\Debug\Pes2013Hack.pdb
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\bin\Debug\Pes2013Hack.xml
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\obj\Debug\Pes2013Hack.exe
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\obj\Debug\Pes2013Hack.xml
+D:\Program\Visual Basic\Project\Pes2013Hack\Pes2013Hack\obj\Debug\Pes2013Hack.pdb
